@@ -1,0 +1,7 @@
+D:\18.11.2301\Pertemuan 4\method\method\bin\Debug\method.exe.config
+D:\18.11.2301\Pertemuan 4\method\method\bin\Debug\method.exe
+D:\18.11.2301\Pertemuan 4\method\method\bin\Debug\method.pdb
+D:\18.11.2301\Pertemuan 4\method\method\obj\Debug\method.csprojAssemblyReference.cache
+D:\18.11.2301\Pertemuan 4\method\method\obj\Debug\method.csproj.CoreCompileInputs.cache
+D:\18.11.2301\Pertemuan 4\method\method\obj\Debug\method.exe
+D:\18.11.2301\Pertemuan 4\method\method\obj\Debug\method.pdb
